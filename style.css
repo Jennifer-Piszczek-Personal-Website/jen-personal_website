@@ -1,0 +1,50 @@
+body {
+    background-color:#cca69a ;
+    background-image:url(https://media.istockphoto.com/id/1360050574/vector/abstract-seamless-pattern-on-a-newspaper-theme.jpg?s=612x612&w=0&k=20&c=bVU5Z0HvV-dXuG89kC3Pjhmt_X7s0AxcShjGmahMODU=);
+    
+
+}
+
+    
+header {
+        background-color: #fce373;
+        width: 100%;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+     }
+     main {
+        min-height:  100vh;
+        padding: 64px 24px 96px;
+        
+
+     }
+
+      nav ul {
+        nav: ul;
+            list-style: none;
+            margin: 0;
+            padding: 20;
+            display: flex;
+        }
+    
+          nav li {
+            margin-right: 20px;
+            
+        
+        }
+    
+          nav li:last-child {
+            margin-right: 0;
+          }
+      
+          footer {
+            width: 100%;
+            background-color: #fce373;
+            padding: 20px;
+            position: fixed;
+            bottom:0%
+          }
+    
+      
