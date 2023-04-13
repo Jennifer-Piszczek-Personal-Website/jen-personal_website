@@ -1,2 +1,2 @@
 # jen-personal_website
-This site contains my personal files and content.
+This repo contains all of my personal files. 
