@@ -1,2 +1,2 @@
 # jen-personal_website
-Hello! This repo contains the files to my personal website.
+This repo contains all of my personal files. 
